@@ -1,0 +1,92 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "User Acceptance",
+      "start_day": 0,
+      "duration": 3,
+      "depends_on": [],
+      "assigned_to": "Alex",
+      "progress": 74
+    },
+    {
+      "id": 2,
+      "name": "Quality Assurance",
+      "start_day": 4,
+      "duration": 5,
+      "depends_on": [],
+      "assigned_to": "Maria",
+      "progress": 21
+    },
+    {
+      "id": 3,
+      "name": "Design",
+      "start_day": 3,
+      "duration": 5,
+      "depends_on": [
+        0
+      ],
+      "assigned_to": "Maria",
+      "progress": 3
+    },
+    {
+      "id": 4,
+      "name": "Deployment",
+      "start_day": 8,
+      "duration": 3,
+      "depends_on": [
+        2
+      ],
+      "assigned_to": "Alex",
+      "progress": 45
+    },
+    {
+      "id": 5,
+      "name": "Planning",
+      "start_day": 11,
+      "duration": 4,
+      "depends_on": [
+        3
+      ],
+      "assigned_to": "Sarah",
+      "progress": 9
+    },
+    {
+      "id": 6,
+      "name": "Analysis",
+      "start_day": 3,
+      "duration": 5,
+      "depends_on": [
+        0
+      ],
+      "assigned_to": "QA Team",
+      "progress": 72
+    },
+    {
+      "id": 7,
+      "name": "Integration",
+      "start_day": 12,
+      "duration": 6,
+      "depends_on": [],
+      "assigned_to": "John",
+      "progress": 43
+    },
+    {
+      "id": 8,
+      "name": "Review",
+      "start_day": 20,
+      "duration": 3,
+      "depends_on": [],
+      "assigned_to": "QA Team",
+      "progress": 34
+    }
+  ],
+  "milestones": [
+    {
+      "name": "Stakeholder Meeting",
+      "day": 8
+    }
+  ],
+  "project_duration": 28,
+  "today": 9
+}

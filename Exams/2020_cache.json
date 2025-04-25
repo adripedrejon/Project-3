@@ -1,0 +1,110 @@
+[
+  {
+    "question_text": {
+      "spanish": "Utilizando el modo de asistencia como criterio distinguimos varios tipos de Sistema de Soporte a la Decisión o DSS. Indique la respuesta INCORRECTA:",
+      "english": "Using the assistance mode as a criterion, we distinguish several types of Decision Support System or DSS. Indicate the INCORRECT answer:"
+    },
+    "options": {
+      "A": {
+        "spanish": "DSS dirigido por cooperación.",
+        "english": "Cooperative-driven DSS."
+      },
+      "B": {
+        "spanish": "DSS dirigido por modelos.",
+        "english": "Model-driven DSS."
+      },
+      "C": {
+        "spanish": "DSS dirigido por comunicación.",
+        "english": "Communication-driven DSS."
+      },
+      "D": {
+        "spanish": "DSS dirigido por datos.",
+        "english": "Data-driven DSS."
+      }
+    },
+    "correct_answer": "C",
+    "explanation": "The communication-driven DSS is not typically classified as a distinct type of DSS.",
+    "topic_category": "Decision Support Systems"
+  },
+  {
+    "question_text": {
+      "spanish": "De entre las características que el autor Peter Drucker señala como propias del tipo de organización basado en la estimulación del flujo de datos, información, conocimientos e inteligencia entre los miembros y unidades operativas de toda la organización, NO se encuentra la siguiente:",
+      "english": "Among the characteristics that the author Peter Drucker points out as typical of the type of organization based on stimulating the flow of data, information, knowledge, and intelligence among the members and operational units of the entire organization, the following is NOT found:"
+    },
+    "options": {
+      "A": {
+        "spanish": "La comunicación se produce exclusivamente entre los directivos de la organización, donde la pirámide jerárquica distingue tres niveles: Directores, Managers y Trabajadores.",
+        "english": "Communication occurs exclusively between the executives of the organization, where the hierarchical pyramid distinguishes three levels: Directors, Managers, and Workers."
+      },
+      "B": {
+        "spanish": "La reducción hasta la mitad del número de niveles frente a la estructura tradicional.",
+        "english": "The reduction by half of the number of levels compared to the traditional structure."
+      },
+      "C": {
+        "spanish": "La reducción hasta una tercera parte del número de managers con respecto a los que hoy son empleados para un determinado volumen de organización.",
+        "english": "The reduction to one-third of the number of managers compared to those currently employed for a given volume of organization."
+      },
+      "D": {
+        "spanish": "Su funcionamiento es similar al de una orquesta, manifiesto ejemplo de organización basada en el conocimiento en el que distintos especialistas dirigen y organizan su trabajo mediante interacción con sus colegas.",
+        "english": "Its functioning is similar to that of an orchestra, a manifest example of a knowledge-based organization where different specialists direct and organize their work through interaction with their colleagues."
+      }
+    },
+    "correct_answer": "A",
+    "explanation": "Drucker's model emphasizes communication across all levels, rather than being confined to executives.",
+    "topic_category": "Organizational Theory"
+  },
+  {
+    "question_text": {
+      "spanish": "¿Cuál de las siguientes respuestas es INCORRECTA sobre las Comisiones Ministeriales de Administración Digital (CMAD)?:",
+      "english": "Which of the following answers is INCORRECT about the Ministerial Commissions for Digital Administration (CMAD)?"
+    },
+    "options": {
+      "A": {
+        "spanish": "La CMAD es un órgano colegiado de ámbito departamental responsable del impulso de las TIC.",
+        "english": "The CMAD is a collegiate body at the departmental level responsible for promoting ICT."
+      },
+      "B": {
+        "spanish": "La CMAD es un órgano colegiado de ámbito nacional responsable del impulso de las TIC.",
+        "english": "The CMAD is a national collegiate body responsible for promoting ICT."
+      },
+      "C": {
+        "spanish": "La CMAD actúa como órgano de relación entre los departamentos ministeriales y sus organismos adscritos y la Secretaría General de Administración Digital.",
+        "english": "The CMAD acts as a point of contact between ministerial departments and their attached organizations and the General Secretariat for Digital Administration."
+      },
+      "D": {
+        "spanish": "Las CMAD estudiarán y planificarán las necesidades funcionales de las distintas áreas administrativas del ministerio en materia TIC.",
+        "english": "The CMAD will study and plan the functional needs of the different administrative areas of the ministry regarding ICT."
+      }
+    },
+    "correct_answer": "A",
+    "explanation": "The CMAD operates at the national level, not just the departmental level, as stated in option A.",
+    "topic_category": "Digital Administration"
+  },
+  {
+    "question_text": {
+      "spanish": "Indique cuáles de los siguientes datos o documentos NO están expresamente excluidos del ámbito objetivo de aplicación de la Ley 37/2007, de 16 de noviembre, sobre la reutilización de la información del sector público:",
+      "english": "Indicate which of the following data or documents are NOT expressly excluded from the objective scope of application of Law 37/2007, of November 16, on the reuse of public sector information:"
+    },
+    "options": {
+      "A": {
+        "spanish": "Los logotipos, divisas e insignias.",
+        "english": "Logos, insignias, and emblems."
+      },
+      "B": {
+        "spanish": "Los datos conservados por las entidades que gestionen los servicios esenciales de radiodifusión sonora y televisiva y sus filiales.",
+        "english": "Data held by entities managing essential broadcasting and television services and their subsidiaries."
+      },
+      "C": {
+        "spanish": "Los documentos producidos o conservados por bibliotecas, incluidas las universitarias, museos o archivos.",
+        "english": "Documents produced or preserved by libraries, including university libraries, museums, or archives."
+      },
+      "D": {
+        "spanish": "Los documentos para cuyo acceso se requiera ser titular de un derecho o interés legítimo.",
+        "english": "Documents for which access requires being the owner of a right or legitimate interest."
+      }
+    },
+    "correct_answer": "C",
+    "explanation": "Documents produced or preserved by libraries are typically included in the scope of the law instead of being excluded.",
+    "topic_category": "Public Information Law"
+  }
+]

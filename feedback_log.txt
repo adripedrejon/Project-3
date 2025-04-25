@@ -1,0 +1,8 @@
+2025-04-23 18:32:07 | Question ID: 42a1a4bc-e06d-4b1d-b08f-edef83c39106 | Feedback: positive | Session: 1b4cb7db-95bf-4126-bc79-4a889f7d7b5b | Topic: Law 39/2015 - Administrative Procedure | Level: beginner
+2025-04-23 18:33:04 | Question ID: e8ea4e3b-300a-4c80-acfc-aed63262f812 | Feedback: negative | Session: 1b4cb7db-95bf-4126-bc79-4a889f7d7b5b | Topic: Law 39/2015 - Administrative Procedure | Level: beginner
+2025-04-23 18:36:31 | Question ID: b827f9e2-6eb2-4bae-9b18-18e6280a22ea | Feedback: positive | Session: 1b4cb7db-95bf-4126-bc79-4a889f7d7b5b | Topic: Law 39/2015 - Administrative Procedure | Level: beginner
+2025-04-23 18:37:23 | Question ID: 410959ad-d148-4c91-b81e-c84ec3344939 | Feedback: positive | Session: 1b4cb7db-95bf-4126-bc79-4a889f7d7b5b | Topic: Law 39/2015 - Administrative Procedure | Level: beginner
+2025-04-23 18:37:44 | Question ID: 1d66b15a-5711-4464-80d4-4435ced3c4a7 | Feedback: negative | Session: 1b4cb7db-95bf-4126-bc79-4a889f7d7b5b | Topic: Law 39/2015 - Administrative Procedure | Level: beginner
+2025-04-23 19:40:42 | Question ID: 30beb7dc-0ab3-4fc3-b004-64df9ed402e8 | Feedback: positive | Session: dec253a9-a951-415f-b177-0d5e5e33a14d | Topic: Spanish Constitution (La Constitución Española) | Level: beginner
+2025-04-24 12:12:35 | Question ID: e678f4b7-a973-4110-9c9a-2fb6c9924566 | Feedback: positive | Session: ba3c42d1-1681-45b6-ab1c-3b85b1c7bf2f | Topic: Operating Systems | Level: beginner
+2025-04-25 18:19:40 | Question ID: 507f178c-1b72-43f6-81d8-5417c77cbc6c | Feedback: negative | Session: 75d96859-b13c-438c-8643-2ceb1621ad6e | Topic: Spanish Constitution (La Constitución Española) | Level: intermediate

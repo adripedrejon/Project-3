@@ -1,0 +1,40 @@
+{
+  "entities": [
+    {
+      "name": "Category"
+    },
+    {
+      "name": "User"
+    },
+    {
+      "name": "Invoice"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Category",
+      "to": "User",
+      "type": "places"
+    },
+    {
+      "from": "User",
+      "to": "Invoice",
+      "type": "orders"
+    },
+    {
+      "from": "Invoice",
+      "to": "Category",
+      "type": "works_in"
+    },
+    {
+      "from": "Category",
+      "to": "User",
+      "type": "delivers"
+    },
+    {
+      "from": "Invoice",
+      "to": "Category",
+      "type": "works_in"
+    }
+  ]
+}
