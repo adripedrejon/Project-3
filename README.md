@@ -29,8 +29,8 @@ It offers interactive study tools, including random quizzes, real exam simulatio
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/practice.git
-    cd practice
+    git clone https://github.com/adripedrejon/Project-3.git
+    cd Project-3
     ```
 
 2. **Install the required packages**:
