@@ -34,6 +34,7 @@ It offers interactive study tools, including random quizzes, real exam simulatio
     ```
 
 2. **Install the required packages**:
+    ```text
     Flask==3.1.0
     streamlit==1.44.1
     openai==1.72.0
@@ -41,8 +42,9 @@ It offers interactive study tools, including random quizzes, real exam simulatio
     deep-translator==1.11.4
     requests==2.32.3
     python-dotenv==1.1.0
+    ```
 
-3. **Set up your API keys**:
+4. **Set up your API keys**:
 
     - In `utils.py`, assign your OpenAI API key:
 
@@ -60,16 +62,16 @@ It offers interactive study tools, including random quizzes, real exam simulatio
       TTS_API_URL = "https://huggingface.co/spaces/k2-fsa/text-to-speech"
       ```
 
-4. **Start the Flask server**:
+5. **Start the Flask server**:
 
     ```bash
     python flask_api.py
     ```
 
-5. **In another terminal, run the Streamlit app**:
+6. **In another terminal, run the Streamlit app**:
 
     ```bash
     streamlit run app.py
     ```
 
-6. **Open your browser** and interact with **pracTICe**!
+7. **Open your browser** and interact with **pracTICe**!
